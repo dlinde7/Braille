@@ -1,4 +1,4 @@
-package Braille;
+package braille;
 
 import java.util.Scanner;
 

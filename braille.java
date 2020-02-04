@@ -2,7 +2,7 @@ package braille;
 
 import java.util.Scanner;
 
-public class braille {
+public class Braille {
     static void place(String str, String[] bri, String[] bri2, String[] briA, String[] briL){
         int n;
         int i;

@@ -1,3 +1,5 @@
+package Braille;
+
 import java.util.Scanner;
 
 public class braille {
@@ -68,7 +70,7 @@ public class braille {
     }else {
         place( str, bri, bri2, briA, briL);
     }
-    System.out.println("Enter word or sentence(enter 0 to exit):");
+    System.out.println("Enter word or sentence(press enter with blank field to exit):");
   }
 }
 }
